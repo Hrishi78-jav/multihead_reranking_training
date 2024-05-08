@@ -1,0 +1,2 @@
+python3 train.py
+aws s3 cp iter1_miniLM_L6_multihead_rerank_bs_256 s3://genie-ai/model_checkpoints/iter1_miniLM_L6_multihead_rerank_bs_256
